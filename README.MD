@@ -4,8 +4,9 @@ Initial commit
 
 update from web
 
-<<<<<<< HEAD
+
 update from local
-=======
+
 new update from web
->>>>>>> 739a610c42836059918b84b42262b8d5ae8b6264
+
+clean up
